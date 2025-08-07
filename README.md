@@ -29,6 +29,8 @@ with this example we can run:
 
 `makey test` to call `[test]` which will run `echo this is a test`
 
+---
+
 ### Compile
 
 to compile makey just use
