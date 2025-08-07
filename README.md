@@ -1,6 +1,8 @@
 # Makey
 super simple toml based make system programmed in rust
 
+-------
+
 ### Instructions
 
 projects that use makey should have a `makey.conf` file in the project root
